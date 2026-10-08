@@ -1,0 +1,18 @@
+# Dataset files
+data/*.csv
+data/*.parquet
+
+# Jupyter and Python files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credentials and environment variables
+.env
+kaggle.json
+
+# Operating-system files
+.DS_Store
+Thumbs.db
